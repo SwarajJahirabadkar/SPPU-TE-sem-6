@@ -1,0 +1,11 @@
+<!ELEMENT bookstore (book+)>
+
+<!ELEMENT book (bookname, buyername, issuedate, price, authorname)>
+<!ATTLIST book bookid CDATA #REQUIRED>
+
+<!ELEMENT bookname (#PCDATA)>
+<!ELEMENT buyername (#PCDATA)>
+<!ELEMENT issuedate (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+<!ELEMENT authorname (#PCDATA)>
+x

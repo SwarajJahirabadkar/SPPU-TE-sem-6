@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<!DOCTYPE bookstore SYSTEM "bookstore.dtd">
+<?xml-stylesheet type="text/xsl" href="bookstore.xsl"?>
+
+<bookstore>
+
+    <book bookid="B101">
+        <bookname>The Alchemist</bookname>
+        <buyername>Shrikant</buyername>
+        <issuedate>2025-01-15</issuedate>
+        <price>299</price>
+        <authorname>Paulo Coelho</authorname>
+    </book>
+
+    <book bookid="B102">
+        <bookname>Rich Dad Poor Dad</bookname>
+        <buyername>Dhiraj</buyername>
+        <issuedate>2025-02-10</issuedate>
+        <price>499</price>
+        <authorname>Robert Kiyosaki</authorname>
+    </book>
+
+    <book bookid="B103">
+        <bookname>The Great Gatsby</bookname>
+        <buyername>Swaraj</buyername>
+        <issuedate>2025-02-05</issuedate>
+        <price>349</price>
+        <authorname>F. Scott Fitzgerald</authorname>
+    </book>
+
+    <book bookid="B104">
+        <bookname>Atomic Habits</bookname>
+        <buyername>Parikshit</buyername>
+        <issuedate>2025-01-20</issuedate>
+        <price>299</price>
+        <authorname>James Clear</authorname>
+    </book>
+
+</bookstore>
